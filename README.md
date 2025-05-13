@@ -98,10 +98,6 @@ ai-splitwise-clone/
 └── ...
 ```
 
-## 📸 Screenshots
-
-> *(Add screenshots here for UI preview if available)*
-
 ## 🧠 Future Features
 
 * Voice input for adding expenses
@@ -120,6 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 > Made with ❤️ by [Ramlal Kumawat](https://github.com/ramlalkumawat)
-
-```
 
